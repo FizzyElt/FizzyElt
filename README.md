@@ -34,6 +34,9 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
 </p>
 
+<div style='padding: 16px 0px;'>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fizzyelt&show_icons=true&locale=en&theme=dark" alt="fizzyelt" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fizzyelt&show_icons=true&locale=en&theme=dark" alt="fizzyelt" /></p>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=FizzyElt&show_icons=true&layout=compact&title_color=FFFFFF&icon_color=F1C40F&text_color=ffffff&bg_color=074a5e'/>
 
