@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **fizzyelt8786@gmail.com**
 
+- My blogs [https://fizzyelt.github.io/blogs/](https://fizzyelt.github.io/blogs/)
 
 
 ### Languages and Tools:
