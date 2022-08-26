@@ -8,6 +8,7 @@
 - 📫 How to reach me **fizzyelt8786@gmail.com**
 
 - My blogs [https://fizzyelt.github.io/blogs/](https://fizzyelt.github.io/blogs/)
+- My blogs (new version) [https://fizzyelt.github.io/](https://fizzyelt.github.io/)
 
 
 ### Languages and Tools:
@@ -16,6 +17,7 @@
 - HTML / CSS
 - React
 - Chakra UI
+- tailwind css
 - git
 - node.js
 
@@ -40,4 +42,24 @@
 
 <p>&nbsp;<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=FizzyElt&show_icons=true&layout=compact&title_color=FFFFFF&icon_color=F1C40F&text_color=ffffff&bg_color=074a5e'/>
 </p>
+
+                                  _
+                               _ooOoo_
+                              o8888888o
+                              88" . "88
+                              (| -_- |)
+                              O\  =  /O
+                           ____/`---'\____
+                         .'  \\|     |//  `.
+                        /  \\|||  :  |||//  \
+                       /  _||||| -:- |||||_  \
+                       |   | \\\  -  /'| |   |
+                       | \_|  `\`---'//  |_/ |
+                       \  .-\__ `-. -'__/-.  /
+                     ___`. .'  /--.--\  `. .'___
+                  ."" '<  `.___\_<|>_/___.' _> \"".
+                 | | :  `- \`. ;`. _/; .'/ /  .' ; |
+                 \  \ `-.   \_\_`. _.'_/_/  -' _.' /
+       ===========`-.`___`-.__\ \___  /__.-'_.'_.-'================
+                               `=--=-'                    
 
