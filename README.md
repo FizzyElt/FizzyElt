@@ -43,6 +43,8 @@
 <p>&nbsp;<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=FizzyElt&show_icons=true&layout=compact&title_color=FFFFFF&icon_color=F1C40F&text_color=ffffff&bg_color=074a5e'/>
 </p>
 
+![FP-meme](./FP-meme.png)
+
                                   _
                                _ooOoo_
                               o8888888o
