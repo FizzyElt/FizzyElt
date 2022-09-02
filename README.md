@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **fizzyelt8786@gmail.com**
 
-- My blogs [https://fizzyelt.github.io/blogs/](https://fizzyelt.github.io/blogs/)
-- My blogs (new version) [https://fizzyelt.github.io/](https://fizzyelt.github.io/)
-
+- [My blogs](https://fizzyelt.github.io/blogs/)
+- [My blogs (new version)](https://fizzyelt.github.io/)
+- [HackMD](https://hackmd.io/@FizzyElt)
 
 ### Languages and Tools:
 - Javascript / Typescript
