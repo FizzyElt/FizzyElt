@@ -1,5 +1,5 @@
 ## Hi 👋, I'm FizzyElt
-### Front-End developer
+### Front-End developer、Functional Programmer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fizzyelt&label=Profile%20views&color=0e75b6&style=flat" alt="fizzyelt" /> </p>
 
@@ -7,19 +7,22 @@
 
 - 📫 How to reach me **fizzyelt8786@gmail.com**
 
-- [My blogs](https://fizzyelt.github.io/blogs/)
-- [My blogs (new version)](https://fizzyelt.github.io/)
+- [My blogs](https://fizzyelt.github.io/)
 - [HackMD](https://hackmd.io/@FizzyElt)
 
-### Languages and Tools:
+### Languages:
 - Javascript / Typescript
 - Rust
 - HTML / CSS
+- Haskell (a little)
+### tools:
 - React
 - Chakra UI
 - tailwind css
-- git
+- git 
 - node.js
+- fp-ts
+- ramda
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
