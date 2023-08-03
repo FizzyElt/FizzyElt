@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fizzyelt&label=Profile%20views&color=0e75b6&style=flat" alt="fizzyelt" /> </p>
 
-- 🌱 I’m currently learning **Rust, Haskell, Functional Programming, Category theory**
+- 🌱 I’m currently learning **Rust, Lean 4, Functional Programming, Category theory**
 
 - 📫 How to reach me **fizzyelt8786@gmail.com**
 
@@ -47,24 +47,3 @@
 </p>
 
 ![FP-meme](./FP-meme.png)
-
-                                  _
-                               _ooOoo_
-                              o8888888o
-                              88" . "88
-                              (| -_- |)
-                              O\  =  /O
-                           ____/`---'\____
-                         .'  \\|     |//  `.
-                        /  \\|||  :  |||//  \
-                       /  _||||| -:- |||||_  \
-                       |   | \\\  -  /'| |   |
-                       | \_|  `\`---'//  |_/ |
-                       \  .-\__ `-. -'__/-.  /
-                     ___`. .'  /--.--\  `. .'___
-                  ."" '<  `.___\_<|>_/___.' _> \"".
-                 | | :  `- \`. ;`. _/; .'/ /  .' ; |
-                 \  \ `-.   \_\_`. _.'_/_/  -' _.' /
-       ===========`-.`___`-.__\ \___  /__.-'_.'_.-'================
-                               `=--=-'                    
-
