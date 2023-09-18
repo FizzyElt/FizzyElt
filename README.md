@@ -1,28 +1,33 @@
-## Hi 👋, I'm FizzyElt
-### Front-End developer、Functional Programmer
+# Hi 👋, I'm FizzyElt
+
+## Front-End developer、Functional Programmer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fizzyelt&label=Profile%20views&color=0e75b6&style=flat" alt="fizzyelt" /> </p>
 
-- 🌱 I’m currently learning **Rust, Lean 4, Functional Programming, Category theory**
+- 🌱 I’m currently learning **Rust, Lean 4, OCaml, Functional Programming, Category theory**
 
 - 📫 How to reach me **fizzyelt8786@gmail.com**
 
 - [My blogs](https://fizzyelt.github.io/)
 - [HackMD](https://hackmd.io/@FizzyElt)
 
-### Languages:
+### Languages
+
 - Javascript / Typescript
-- Rust
 - HTML / CSS
+- Rust
+- OCaml
+- Lean
 - Haskell (a little)
-### tools:
+
+### tools
+
 - React
 - Chakra UI
 - tailwind css
-- git 
+- git
 - node.js
 - fp-ts
-- ramda
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
