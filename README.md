@@ -1,6 +1,6 @@
 # Hi 👋, I'm FizzyElt
 
-## Front-End Developer、Functional Programmer
+## Functional Programmer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fizzyelt&label=Profile%20views&color=0e75b6&style=flat" alt="fizzyelt" /> </p>
 
@@ -23,6 +23,7 @@
 
 - React
 - Chakra UI
+- Effect-ts
 - tailwind css
 - git
 - node.js
