@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fizzyelt&label=Profile%20views&color=0e75b6&style=flat" alt="fizzyelt" /> </p>
 
-- 🌱 I’m currently learning **Rust, Lean 4, OCaml, Functional Programming, Category theory**
+- 🌱 I’m currently learning **Rust, Lean 4, OCaml, Functional Programming, Lambda Calculus, Category theory**
 
 - 📫 How to reach me **fizzyelt.dev@outlook.com**
 
@@ -23,10 +23,11 @@
 
 - React
 - Chakra UI
-- Effect-ts
+- Effect-TS
 - tailwind css
 - git
 - node.js
+- Bun
 - fp-ts
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fizzyelt&show_icons=true&locale=en&theme=dark" alt="fizzyelt" /></p>
